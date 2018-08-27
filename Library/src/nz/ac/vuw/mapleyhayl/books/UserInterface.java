@@ -15,6 +15,11 @@ import java.util.*;
  * - display books on graphics pane
  */
 
+/**
+ * This is the entry point for the application.
+ * @author mapleyhayl
+ *
+ */
 public class UserInterface {
 
 	private ArrayList<Book> allBooks = new ArrayList<Book>();
