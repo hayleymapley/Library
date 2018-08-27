@@ -15,6 +15,11 @@ import java.util.*;
  * - display books on graphics pane
  */
 
+/**
+ * This is the entry point for the application. This class contains all books.
+ * @author mapleyhayl
+ *
+ */
 // For commit
 
 public class UserInterface {
